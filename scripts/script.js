@@ -5,3 +5,7 @@ function returnTwo() {
 function addOne(number) {
     return (number + 1);
 }
+
+function helloWorld(){
+    return "Hello World!";
+}
